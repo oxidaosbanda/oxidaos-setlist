@@ -1,0 +1,190 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "Dejame",
+      "bpm": 201
+    },
+    {
+      "id": 2,
+      "name": "La matare",
+      "bpm": 194
+    },
+    {
+      "id": 3,
+      "name": "Rumba tarumba",
+      "bpm": 183
+    },
+    {
+      "id": 4,
+      "name": "1000 calles",
+      "bpm": 179
+    },
+    {
+      "id": 5,
+      "name": "Agradecido",
+      "bpm": 174
+    },
+    {
+      "id": 6,
+      "name": "No dudaria",
+      "bpm": 174
+    },
+    {
+      "id": 7,
+      "name": "Dolores",
+      "bpm": 172
+    },
+    {
+      "id": 8,
+      "name": "Benito Kamelas",
+      "bpm": 167
+    },
+    {
+      "id": 9,
+      "name": "Ramoncin",
+      "bpm": 163
+    },
+    {
+      "id": 10,
+      "name": "Calavera",
+      "bpm": 175
+    },
+    {
+      "id": 11,
+      "name": "Ritmo del garage",
+      "bpm": 141
+    },
+    {
+      "id": 12,
+      "name": "Ama",
+      "bpm": 150
+    },
+    {
+      "id": 13,
+      "name": "Blanco y negro",
+      "bpm": 150
+    },
+    {
+      "id": 14,
+      "name": "Antiheroe",
+      "bpm": 150
+    },
+    {
+      "id": 15,
+      "name": "Hombres G",
+      "bpm": 148
+    },
+    {
+      "id": 16,
+      "name": "Bailare sobre tu tumba",
+      "bpm": 148
+    },
+    {
+      "id": 17,
+      "name": "Limite",
+      "bpm": 138
+    },
+    {
+      "id": 18,
+      "name": "Los Nikis",
+      "bpm": 133
+    },
+    {
+      "id": 19,
+      "name": "Carolina",
+      "bpm": 124
+    },
+    {
+      "id": 20,
+      "name": "Cadillac",
+      "bpm": 126
+    },
+    {
+      "id": 21,
+      "name": "Maldito duende",
+      "bpm": 125
+    },
+    {
+      "id": 22,
+      "name": "Maneras de vivir",
+      "bpm": 124
+    },
+    {
+      "id": 23,
+      "name": "No puedo vivir sin ti",
+      "bpm": 122
+    },
+    {
+      "id": 24,
+      "name": "La senda del tiempo",
+      "bpm": 72
+    },
+    {
+      "id": 25,
+      "name": "Porretas pongamos",
+      "bpm": 194
+    },
+    {
+      "id": 26,
+      "name": "En algun lugar",
+      "bpm": 149
+    },
+    {
+      "id": 27,
+      "name": "Perlas",
+      "bpm": 164
+    },
+    {
+      "id": 28,
+      "name": "Viva Suecia el bien",
+      "bpm": 145
+    },
+    {
+      "id": 29,
+      "name": "Hay poco rock & rol",
+      "bpm": 140
+    },
+    {
+      "id": 30,
+      "name": "Somos oxidaos",
+      "bpm": 122
+    },
+    {
+      "id": 31,
+      "name": "Blanca navidad",
+      "bpm": 172
+    },
+    {
+      "id": 32,
+      "name": "No hay tregua",
+      "bpm": 147
+    },
+    {
+      "id": 33,
+      "name": "Hombre medicina",
+      "bpm": 145
+    },
+    {
+      "id": 34,
+      "name": "Los rockeros",
+      "bpm": 129
+    },
+    {
+      "id": 35,
+      "name": "Velero",
+      "bpm": 195
+    },
+    {
+      "id": 36,
+      "name": "Pignoise",
+      "bpm": 154
+    },
+    {
+      "id": 37,
+      "name": "Heroina",
+      "bpm": 192
+    }
+  ],
+  "nextId": 38
+}
